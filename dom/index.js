@@ -17,8 +17,10 @@ export default function createElFactory() {
 
   function addCardEl(id) {
     let cardEl = createCardEl(id);
-    cardEl.id = id;
-    faces[id] = cardEl;
+    if (id && id !== false) {
+      cardEl.id = id;
+      faces[id] = cardEl;
+    }
     return cardEl;
   }
 

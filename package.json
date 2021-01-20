@@ -1,7 +1,7 @@
 {
   "name": "@akbr/cards",
-  "version": "0.0.1",
-  "description": "",
+  "version": "0.0.2",
+  "description": "A cards utility library of questionable abstraction.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
