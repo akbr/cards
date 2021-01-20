@@ -1,0 +1,19 @@
+{
+  "name": "@akbr/cards",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akbr/cards.git"
+  },
+  "author": "Aaron Rieke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akbr/cards/issues"
+  },
+  "homepage": "https://github.com/akbr/cards#readme"
+}
